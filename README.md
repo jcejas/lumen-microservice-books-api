@@ -11,7 +11,7 @@ run: php artisan migrate --seed
 
 
 ## Start server
-run: php -S localhost:8000 -t public
+run: php -S localhost:8001 -t public
 
 
 # Lumen PHP Framework
